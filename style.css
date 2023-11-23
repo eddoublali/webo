@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+}
+.logo{
+    width: 130px;
+    margin-left: 40px;
+
+}
+.botton1{
+    background-color: #f5eb28;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    color: black;
+
+}
+.botton1:hover{
+    background-color: #3a65ed;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    transition: 0.5s;
+
+}
+.botton2{
+    background-color: #3a65ed;
+    border: none;
+    color: white;
+    padding: 15px 43px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.botton2:hover{
+    background-color:#f5eb28 ;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 43px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+.contener{
+    padding: 20px;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+.para{
+ 
+    padding: 3px;
+    background-color: #e0e5eb;
+}
+.Per{
+    text-align: center;
+    margin: 30px;
+    padding: ;
+}
+.writ{
+    width: 50%;
+    margin: 60px;
+}
+.num{
+    margin-top: 20px;
+   margin-left: 8%;
+}
+.so{
+    margin-bottom: 20px;
+}
+.tet{
+    margin-bottom: 20px;
+}
+.illu{
+    max-width: ;-width: auto;
+    height:auto;
+
+}
